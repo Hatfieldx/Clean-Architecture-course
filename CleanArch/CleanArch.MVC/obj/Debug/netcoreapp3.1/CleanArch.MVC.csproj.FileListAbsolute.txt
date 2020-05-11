@@ -67,3 +67,8 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.Views.pdb
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csprojAssemblyReference.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb

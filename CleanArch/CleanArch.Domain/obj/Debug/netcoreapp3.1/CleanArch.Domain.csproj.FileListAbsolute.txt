@@ -1,0 +1,7 @@
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb

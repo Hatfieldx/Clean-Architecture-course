@@ -1,0 +1,13 @@
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.deps.json
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csprojAssemblyReference.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfo.cs
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.json
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.dev.json
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
