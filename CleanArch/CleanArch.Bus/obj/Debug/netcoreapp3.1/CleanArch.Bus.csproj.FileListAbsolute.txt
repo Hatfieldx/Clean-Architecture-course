@@ -1,0 +1,8 @@
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\bin\Debug\netcoreapp3.1\CleanArch.Bus.deps.json
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\bin\Debug\netcoreapp3.1\CleanArch.Bus.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\bin\Debug\netcoreapp3.1\CleanArch.Bus.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\obj\Debug\netcoreapp3.1\CleanArch.Bus.AssemblyInfoInputs.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\obj\Debug\netcoreapp3.1\CleanArch.Bus.AssemblyInfo.cs
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\obj\Debug\netcoreapp3.1\CleanArch.Bus.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\obj\Debug\netcoreapp3.1\CleanArch.Bus.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Bus\obj\Debug\netcoreapp3.1\CleanArch.Bus.csprojAssemblyReference.cache
