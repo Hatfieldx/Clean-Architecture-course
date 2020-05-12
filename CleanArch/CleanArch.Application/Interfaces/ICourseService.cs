@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 namespace CleanArch.Application.Interfaces
 {
-    public interface ICourseRepository
+    public interface ICourseService
     {
-        IEnumerable<CourseViewModel> GetCourses();
+        CourseViewModel GetCourses();
     }
 }
