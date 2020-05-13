@@ -149,3 +149,6 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

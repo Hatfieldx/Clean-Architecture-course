@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using CleanArch.Domain.Core.Events;
-using MediatR;
 
 namespace CleanArch.Domain.Core.Commands
 {

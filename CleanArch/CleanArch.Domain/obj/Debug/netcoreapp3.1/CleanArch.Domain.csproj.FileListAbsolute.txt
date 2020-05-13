@@ -6,3 +6,6 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreap
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csprojAssemblyReference.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CopyComplete

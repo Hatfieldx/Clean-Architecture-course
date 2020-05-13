@@ -9,3 +9,5 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\obj\Debug\netc
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
