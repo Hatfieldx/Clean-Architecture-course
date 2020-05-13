@@ -56,5 +56,5 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
-D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\obj\Debug\netcoreapp3.1\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\obj\Debug\netcoreapp3.1\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

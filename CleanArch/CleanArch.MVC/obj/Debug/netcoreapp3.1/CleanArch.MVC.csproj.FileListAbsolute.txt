@@ -53,8 +53,6 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.RazorTargetAssemblyInfo.cache
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.RazorTargetAssemblyInfo.cs
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csproj.CopyComplete
-D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cs
-D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cache
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.MVC.deps.json
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.MVC.runtimeconfig.json
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.MVC.runtimeconfig.dev.json
@@ -154,3 +152,6 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Bus.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Bus.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "course",
+      "launchUrl": "api/course",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,8 +20,8 @@
     "CleanArch.Api": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "course",
-      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "api/course",
+      "applicationUrl": "http://localhost:5005",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

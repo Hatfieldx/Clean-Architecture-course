@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using CleanArch.Infra.Data.Context;
 using CleanArch.Infra.IoC;
+using MediatR;
 
 namespace CleanArch.MVC
 {
@@ -29,6 +30,7 @@ namespace CleanArch.MVC
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMediatR(typeof(Startup));
             services.AddDbContext<ApplicationDbContext>(options =>
                 options. UseNpgsql(
                     Configuration.GetConnectionString("DefaultConnection")));

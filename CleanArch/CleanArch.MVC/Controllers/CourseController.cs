@@ -17,7 +17,7 @@ namespace CleanArch.MVC.Controllers
         {
             _courseService = courseService;
         }
-        [Authorize]
+        //[Authorize]
         public IActionResult Index()
         {
             var model = _courseService.GetCourses();
