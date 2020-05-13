@@ -2,13 +2,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CleanArch.Infra.Data.Context;
+using CleanArch.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using MediatR;
+using System.Reflection;
+using System.IO;
+using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.Swagger;
 
 namespace CleanArch.Api
 {
@@ -24,6 +32,21 @@ namespace CleanArch.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSwaggerGen(cfg =>
+            {
+                cfg.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "University Api",
+                    Version = "v1"
+                });
+            });
+
+            services.AddMediatR(typeof(Startup));
+            
+            RegisterServices(services);
+            
+            services.AddDbContext<UniversityDbContext>(options =>
+                    options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
         }
 
@@ -37,12 +60,24 @@ namespace CleanArch.Api
 
             app.UseRouting();
 
+            app.UseSwagger().UseSwaggerUI(cfg => cfg.SwaggerEndpoint("/swagger/v1/swagger.json", "v1"));
+
+            app.UseCors(builder => builder
+                .SetIsOriginAllowedToAllowWildcardSubdomains()
+                .AllowCredentials()
+                .AllowAnyHeader()
+                .AllowAnyMethod());
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+        }
+        private static void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainer.RegisterServices(services);
         }
     }
 }
