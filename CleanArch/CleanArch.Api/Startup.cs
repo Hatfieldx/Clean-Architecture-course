@@ -17,6 +17,7 @@ using System.Reflection;
 using System.IO;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.Swagger;
+using CleanArch.Api.Configurations;
 
 namespace CleanArch.Api
 {
@@ -42,7 +43,9 @@ namespace CleanArch.Api
             });
 
             services.AddMediatR(typeof(Startup));
-            
+
+            services.RegisterAutoMApper();
+
             RegisterServices(services);
             
             services.AddDbContext<UniversityDbContext>(options =>

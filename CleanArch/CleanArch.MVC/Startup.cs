@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using CleanArch.Infra.Data.Context;
 using CleanArch.Infra.IoC;
 using MediatR;
+using CleanArch.Api.Configurations;
 
 namespace CleanArch.MVC
 {
@@ -41,6 +42,8 @@ namespace CleanArch.MVC
 
             services.AddDbContext<UniversityDbContext>(options =>
             options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.RegisterAutoMApper();
 
             RegisterServices(services);
         }
