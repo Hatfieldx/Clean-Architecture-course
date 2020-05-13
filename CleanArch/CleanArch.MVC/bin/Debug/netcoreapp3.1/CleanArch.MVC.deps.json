@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v3.1": {
       "CleanArch.MVC/1.0.0": {
         "dependencies": {
-          "CleanArch.Infra.Data": "1.0.0",
           "CleanArch.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.1",
@@ -1961,6 +1960,18 @@
           "CleanArch.Application.dll": {}
         }
       },
+      "CleanArch.Bus/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "CleanArch.Bus.dll": {}
+        },
+        "compile": {
+          "CleanArch.Bus.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "dependencies": {
           "CleanArch.Domain.Core": "1.0.0"
@@ -1999,6 +2010,7 @@
       "CleanArch.Infra.IoC/1.0.0": {
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "CleanArch.Bus": "1.0.0",
           "CleanArch.Infra.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.4"
         },
@@ -4574,6 +4586,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Bus/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

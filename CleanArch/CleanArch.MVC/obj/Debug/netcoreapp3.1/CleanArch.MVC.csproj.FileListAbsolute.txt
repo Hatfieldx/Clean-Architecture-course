@@ -152,3 +152,5 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Bus.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Bus.pdb

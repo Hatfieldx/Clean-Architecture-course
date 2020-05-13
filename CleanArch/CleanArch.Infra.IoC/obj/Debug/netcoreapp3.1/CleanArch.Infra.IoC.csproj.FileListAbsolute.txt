@@ -15,3 +15,5 @@ D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcor
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
 D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Bus.dll
+D:\repo\Clean-Architecture-course\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Bus.pdb
